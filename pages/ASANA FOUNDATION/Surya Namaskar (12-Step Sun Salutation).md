@@ -3,9 +3,9 @@ title: Surya Namaskar
 layout: page
 subtitle: 12-Step Sun Salutation
 ---
-<p class="calibre1"><a id="p11"></a><img src="/assets/img/index-11_1.png" class="calibre2"/></p>
-<p class="calibre1"><img src="/assets/img/index-11_2.jpg" class="calibre2"/></p>
-<p class="calibre1"><img src="/assets/img/index-11_3.jpg" class="calibre2"/></p>
+<p class="calibre1"><a id="p11"></a><img src="../../assets/img/index-11_1.png" class="calibre2"/></p>
+<p class="calibre1"><img src="../../assets/img/index-11_2.jpg" class="calibre2"/></p>
+<p class="calibre1"><img src="../../assets/img/index-11_3.jpg" class="calibre2"/></p>
 <p class="calibre1"></p>
 <p class="calibre1"><b class="calibre3">Surya Namaskar </b></p>
 <p class="calibre1"> <i class="calibre4">(12-Step Sun Salutation) </i></p>
@@ -25,7 +25,7 @@ subtitle: 12-Step Sun Salutation
 <p class="calibre1"><b class="calibre3"> </b></p>
 <p class="calibre1"> <i class="calibre4">  </i> 11 </p>
 <p class="calibre1"> <i class="calibre4"> </i></p>
-<p class="calibre1"><a id="p12"></a><img src="/assets/img/index-12_1.png" class="calibre2"/></p>
+<p class="calibre1"><a id="p12"></a><img src="../../assets/img/index-12_1.png" class="calibre2"/></p>
 <p class="calibre1"></p>
 <p class="calibre1"><b class="calibre3">Origin: </b></p>
 <p class="calibre1">This is the legend of Surya Namaskar: </p>
@@ -64,7 +64,7 @@ subtitle: 12-Step Sun Salutation
 <p class="calibre1"><b class="calibre3"> </b></p>
 <p class="calibre1"> <i class="calibre4">  </i> 12 </p>
 <p class="calibre1"> <i class="calibre4"> </i></p>
-<p class="calibre1"><a id="p13"></a><img src="/assets/img/index-13_1.png" class="calibre2"/></p>
+<p class="calibre1"><a id="p13"></a><img src="../../assets/img/index-13_1.png" class="calibre2"/></p>
 <p class="calibre1"></p>
 <p class="calibre1"><b class="calibre3">Contraindications: </b></p>
 <p class="calibre1">1. </p>
@@ -99,7 +99,7 @@ subtitle: 12-Step Sun Salutation
 <p class="calibre1"></p>
 <p class="calibre1"> <i class="calibre4">  </i> 13 </p>
 <p class="calibre1"> <i class="calibre4"> </i></p>
-<p class="calibre1"><a id="p14"></a><img src="/assets/img/index-14_1.png" class="calibre2"/></p>
+<p class="calibre1"><a id="p14"></a><img src="../../assets/img/index-14_1.png" class="calibre2"/></p>
 <p class="calibre1"></p>
 <p class="calibre1"><b class="calibre3">Step 6:</b> Ashtanga Namaskar (8 limb salutation) </p>
 <p class="calibre1">Exhaling, lower the knees, chest and chin to the ground. The chest should be in line with both palms, elbows close to the body and stacked above wrists. Keep the lumber arched and point the sit bones up. Gaze as per Step 5. </p>
@@ -133,7 +133,7 @@ subtitle: 12-Step Sun Salutation
 <p class="calibre1"><b class="calibre3"> </b></p>
 <p class="calibre1"> <i class="calibre4">  </i> 14 </p>
 <p class="calibre1"> <i class="calibre4"> </i></p>
-<p class="calibre1"><a id="p15"></a><img src="/assets/img/index-15_1.png" class="calibre2"/></p>
+<p class="calibre1"><a id="p15"></a><img src="../../assets/img/index-15_1.png" class="calibre2"/></p>
 <p class="calibre1"></p>
 <p class="calibre1"><b class="calibre3">Practice Tips: </b></p>
 <p class="calibre1">Best  practiced  in  the  early  morning  as  this  will  energize  you  throughout  the day.  For  beginners,  it  is  recommended  that  you  do  the  steps  slowly  and steadily. Do not rush. </p>
@@ -168,7 +168,7 @@ subtitle: 12-Step Sun Salutation
 <p class="calibre1"></p>
 <p class="calibre1"> <i class="calibre4">  </i> 15 </p>
 <p class="calibre1"> <i class="calibre4"> </i></p>
-<p class="calibre1"><a id="p16"></a><img src="/assets/img/index-16_1.png" class="calibre2"/></p>
+<p class="calibre1"><a id="p16"></a><img src="../../assets/img/index-16_1.png" class="calibre2"/></p>
 <p class="calibre1"></p>
 <p class="calibre1"><b class="calibre3"> </b></p>
 <p class="calibre1"><b class="calibre3">Summary: </b></p>
