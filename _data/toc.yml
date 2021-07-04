@@ -1,122 +1,123 @@
 sections:
   - name: ASANA FOUNDATION
     subsections:
-    - Surya Namaskar (12-Step Sun Salutation)
-    - Ardha Chakrasana
-    - Ashwa Sanchalasana
-    - Ashtanga Namaskar
+    - name: Surya Namaskar
+      description: 12-Step Sun Salutation
+    - name: Ardha Chakrasana
+    - name: Ashwa Sanchalasana
+    - name: Ashtanga Namaskar
   - name: SUPINE POSES
     subsections:
-    - Eka Pada Uttanpadasana
-    - Pawan Muktasana
-    - Jathara Parivartanasana
-    - Navasana
-    - Matsyasana
-    - Viparita Karani
-    - Halasana
+    - name: Eka Pada Uttanpadasana
+    - name: Pawan Muktasana
+    - name: Jathara Parivartanasana
+    - name: Navasana
+    - name: Matsyasana
+    - name: Viparita Karani
+    - name: Halasana
   - name: PRONE POSES
     subsections:
-    - Makarasana
-    - Bhujangasana
-    - Naukasana
-    - Adhomukha Shvanasana
-    - Balasana
-    - Dhanurasana
-    - Sasangasana
+    - name: Makarasana
+    - name: Bhujangasana
+    - name: Naukasana
+    - name: Adhomukha Shvanasana
+    - name: Balasana
+    - name: Dhanurasana
+    - name: Sasangasana
   - name: SEATED POSES
     subsections:
-    - Dandasana
-    - Paschimottanasana
-    - Janu Sirsasana
-    - Parivrita Janu Sirsasana
-    - Vakrasana
-    - Purvottanasana
-    - Santolasana or Phalakasana
-    - Baddha Konasana
-    - Padmasana
-    - Vasisthasana
-    - Ushtrasana
+    - name: Dandasana
+    - name: Paschimottanasana
+    - name: Janu Sirsasana
+    - name: Parivrita Janu Sirsasana
+    - name: Vakrasana
+    - name: Purvottanasana
+    - name: Santolasana or Phalakasana
+    - name: Baddha Konasana
+    - name: Padmasana
+    - name: Vasisthasana
+    - name: Ushtrasana
   - name: STANDING POSES
     subsections:
-    - Tadasana
-    - Tiryaka Tadasana
-    - Pada Hastasana
-    - Utkatasana
-    - Vrikshasana
-    - Virabhadrasana 1
-    - Virabhadrasana 2
-    - Trikonasana
+    - name: Tadasana
+    - name: Tiryaka Tadasana
+    - name: Pada Hastasana
+    - name: Utkatasana
+    - name: Vrikshasana
+    - name: Virabhadrasana 1
+    - name: Virabhadrasana 2
+    - name: Trikonasana
   - name: ASANA ASHTANGA VINYASA PRIMARY SERIES
     subsections:
-    - Surya Namaskara A
-    - Surya Namaskara B
-    - Padangusthasana
-    - Padahastasana
-    - Utthita Trikonasana
-    - Parivritta Trikonasana
-    - Utthita Parsvakonasana
-    - Parivritta Parsvakonasana
-    - Prasarita Padottanasana A
-    - Prasarita Padottanasana B
-    - Prasarita Padottanasana C
-    - Prasarita Padottanasana D
-    - Parsvottanasana
-    - Utthita Hasta Padangusthasana A
-    - Utthita Hasta Padangusthasana B
-    - Utthita Hasta Padangusthasana C
-    - Utthita Hasta Padangusthasana D
-    - Ardha Baddha Padmottanasana
-    - Utkatasana
-    - Virabhadrasana A
-    - Virabhadrasana B
-    - Dandasana
-    - Paschimottanasana A,B,C,D
-    - Purvottanasana
-    - Ardha Baddha Padma Paschimottanasana
-    - Triang Mukha Ekapada Paschimottanasana
-    - Janu Sirsasana A,B,C
-    - Marichyasana A
-    - Marichyasana B
-    - Marichyasana C
-    - Marichyasana D
-    - Navasana
-    - Bhujapidasana
-    - Kurmasana (A) / Supta Kurmasana (B)
-    - Garbha Pindasana
-    - Kukkutasana
-    - Baddha Konasana A,B
-    - Upavistha Konasana / Supta Konasana
-    - Supta Padangusthasana A,B
-    - Ubhaya Padangusthasana
-    - Urdhva Mukha Paschimottanasana
-    - Setu Bandhasana
-    - Urdhva Dhanurasana
-    - Sarvangasana
-    - Halasana
-    - Urdhva Padmasana
-    - Pindasana
-    - Matsyasana
-    - Uttana Padasana
-    - Sirsasana
-    - Baddha Padmasana
-    - Yoga Mudra
-    - Utpluthih
+    - name: Surya Namaskara A
+    - name: Surya Namaskara B
+    - name: Padangusthasana
+    - name: Padahastasana
+    - name: Utthita Trikonasana
+    - name: Parivritta Trikonasana
+    - name: Utthita Parsvakonasana
+    - name: Parivritta Parsvakonasana
+    - name: Prasarita Padottanasana A
+    - name: Prasarita Padottanasana B
+    - name: Prasarita Padottanasana C
+    - name: Prasarita Padottanasana D
+    - name: Parsvottanasana
+    - name: Utthita Hasta Padangusthasana A
+    - name: Utthita Hasta Padangusthasana B
+    - name: Utthita Hasta Padangusthasana C
+    - name: Utthita Hasta Padangusthasana D
+    - name: Ardha Baddha Padmottanasana
+    - name: Utkatasana
+    - name: Virabhadrasana A
+    - name: Virabhadrasana B
+    - name: Dandasana
+    - name: Paschimottanasana A,B,C,D
+    - name: Purvottanasana
+    - name: Ardha Baddha Padma Paschimottanasana
+    - name: Triang Mukha Ekapada Paschimottanasana
+    - name: Janu Sirsasana A,B,C
+    - name: Marichyasana A
+    - name: Marichyasana B
+    - name: Marichyasana C
+    - name: Marichyasana D
+    - name: Navasana
+    - name: Bhujapidasana
+    - name: Kurmasana (A) / Supta Kurmasana (B)
+    - name: Garbha Pindasana
+    - name: Kukkutasana
+    - name: Baddha Konasana A,B
+    - name: Upavistha Konasana / Supta Konasana
+    - name: Supta Padangusthasana A,B
+    - name: Ubhaya Padangusthasana
+    - name: Urdhva Mukha Paschimottanasana
+    - name: Setu Bandhasana
+    - name: Urdhva Dhanurasana
+    - name: Sarvangasana
+    - name: Halasana
+    - name: Urdhva Padmasana
+    - name: Pindasana
+    - name: Matsyasana
+    - name: Uttana Padasana
+    - name: Sirsasana
+    - name: Baddha Padmasana
+    - name: Yoga Mudra
+    - name: Utpluthih
   - name: THEORY
     subsections:
-    - PRE-CONCEIVED IDEAS
-    - MISCELLANEOUS THOUGHTS AND IDEAS OF DUTY/DHARMA
-    - 1.2 Yoga Citta Vritti Nirodhah
+    - name: PRE-CONCEIVED IDEAS
+    - name: MISCELLANEOUS THOUGHTS AND IDEAS OF DUTY/DHARMA
+    - name: 1.2 Yoga Citta Vritti Nirodhah
   - name: THE EIGHT LIMBS OF ASHTANGA/RAJA YOGA
     subsections:
-    - 1. YAMA DISAPPEARANCE OF ALL SUPPRESSIONS
-    - 2. NIYAMA FREEDOM FROM ALL OBSERVANCES
-    - 3. ASANA STEADY AND COMFORTABLE POSE
-    - 4. PRANAYAMA EXPANSION OF VITAL ENERGY, PRANA
-    - 5. PRATYAHARA WITHDRAWAL OF THE SENSES FROM OBJECT AND SUBJECTS AND MOVING CONSCIOUSNESS INWARDS
-    - 6. DHARANA MIND FIT FOR CONCENTRATION
-    - 7. DHYANA MEDITATION
-    - 8. SAMADHI SUPER-CONSCIOUS STATE
-    - SAMYAMA
+    - name: 1. YAMA DISAPPEARANCE OF ALL SUPPRESSIONS
+    - name: 2. NIYAMA FREEDOM FROM ALL OBSERVANCES
+    - name: 3. ASANA STEADY AND COMFORTABLE POSE
+    - name: 4. PRANAYAMA EXPANSION OF VITAL ENERGY, PRANA
+    - name: 5. PRATYAHARA WITHDRAWAL OF THE SENSES FROM OBJECT AND SUBJECTS AND MOVING CONSCIOUSNESS INWARDS
+    - name: 6. DHARANA MIND FIT FOR CONCENTRATION
+    - name: 7. DHYANA MEDITATION
+    - name: 8. SAMADHI SUPER-CONSCIOUS STATE
+    - name: SAMYAMA
   - name: THE 3 GUNAS
   - name: CHAKRAS
   - name: THE SKELETAL SYSTEM
