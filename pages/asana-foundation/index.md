@@ -7,7 +7,7 @@ title: ASANA FOUNDATION
 <div class="posts-list">
   {% for section in site.data.toc.sections %}
   {% if section.name == page.title %}
-  <article class="post-preview">
+  <article class="post-preview text-center">
     {% assign section_name_link = section.name | downcase | replace: ' ', '-' | replace: '/', '-' %}
       {% if section.subsections %}
       {% for subsection in section.subsections %}

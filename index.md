@@ -8,7 +8,7 @@ layout: home
 ---
 <div class="posts-list">
   {% for section in site.data.toc.sections %}
-  <article class="post-preview">
+  <article class="post-preview text-center">
     {% assign section_name_link = section.name | downcase | replace: ' ', '-' | replace: '/', '-' %}
     <a href="pages/{{ section_name_link }}">
       <h2 class="post-title">{{ section.name }}</h2>
