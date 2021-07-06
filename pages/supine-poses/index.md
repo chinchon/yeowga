@@ -13,8 +13,7 @@ title: SUPINE POSES
       {% for subsection in section.subsections %}
       {% assign subsection_name_link = subsection.name | downcase | replace: ' ', '-' | replace: '/', '-' %}
       <a href="s/{{ section_name_link }}/{{ subsection_name_link }}">
-          <!-- <h3 class="post-subtitle">{{ subsection.name }}{{ subsection.description }}</h3> -->
-          <h3 class="post-subtitle">{{ subsection.name }}{% if subsection.description %} - {% endif %}{{ subsection.description }}</h3>
+          <h3 class="post-subtitle">{{ subsection.name }}{% if subsection.description %} - {% endif %}<i>{{ subsection.description }}</i></h3>
       </a>
       {% endfor %}
       {% endif %}

@@ -13,7 +13,7 @@ title: ASANA FOUNDATION
       {% for subsection in section.subsections %}
       {% assign subsection_name_link = subsection.name | downcase | replace: ' ', '-' | replace: '/', '-' %}
       <a href="{{ subsection_name_link }}">
-          <h3 class="post-subtitle">{{ subsection.name }}{% if subsection.description %} - {% endif %}{{ subsection.description }}</h3>
+          <h3 class="post-subtitle">{{ subsection.name }}{% if subsection.description %} - {% endif %}<i>{{ subsection.description }}</i></h3>
       </a>
       {% endfor %}
       {% endif %}
