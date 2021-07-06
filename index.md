@@ -6,7 +6,7 @@ layout: home
 # title: Yeowga!
 # subtitle: ouch.. back pain
 ---
-<div class="posts-list text-center">
+<div class="posts-list">
   {% for section in site.data.toc.sections %}
   <article class="post-preview">
     {% assign section_name_link = section.name | downcase | replace: ' ', '-' | replace: '/', '-' %}
