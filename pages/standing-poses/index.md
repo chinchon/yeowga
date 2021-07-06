@@ -4,7 +4,7 @@ subtitle: null
 title: STANDING POSES
 ---
 
-<div class="posts-list text-center">
+<div class="posts-list">
   {% for section in site.data.toc.sections %}
   {% if section.name == page.title %}
   <article class="post-preview">
