@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Warrior 2
 title: Virabhadrasana 2
 ---
   <p class="calibre1 text-center">

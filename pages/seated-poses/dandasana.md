@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Staff pose
 title: Dandasana
 ---
   <p class="calibre1 text-center">

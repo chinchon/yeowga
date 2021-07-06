@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Fish pose
 title: Matsyasana
 ---
   <p class="calibre1 text-center">

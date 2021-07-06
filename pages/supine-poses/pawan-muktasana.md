@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Wind releasing pose
 title: Pawan Muktasana
 ---
   <p class="calibre1 text-center">

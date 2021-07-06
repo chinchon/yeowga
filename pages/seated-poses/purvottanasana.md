@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Reverse/Upward Plank
 title: Purvottanasana
 ---
   <p class="calibre1 text-center">

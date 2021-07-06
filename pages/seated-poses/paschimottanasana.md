@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Seated Forward Bend
 title: Paschimottanasana
 ---
   <p class="calibre1 text-center">

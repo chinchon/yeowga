@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Plank Pose
 title: Santolasana or Phalakasana
 ---
   <p class="calibre1 text-center">

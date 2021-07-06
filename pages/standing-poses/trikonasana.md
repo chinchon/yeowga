@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Triangle Pose
 title: Trikonasana
 ---
   <p class="calibre1 text-center">

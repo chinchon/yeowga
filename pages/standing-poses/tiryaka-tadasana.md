@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Swaying Palm Tree Pose
 title: Tiryaka Tadasana
 ---
   <p class="calibre1 text-center">

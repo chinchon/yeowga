@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Downward facing dog pose
 title: Adhomukha Shvanasana
 ---
   <p class="calibre1 text-center">

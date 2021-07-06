@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Chair/Fierce Pose
 title: Utkatasana
 ---
   <p class="calibre1 text-center">

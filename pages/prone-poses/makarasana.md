@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Crocodile pose
 title: Makarasana
 ---
   <p class="calibre1 text-center">

@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Plough Pose
 title: Halasana
 ---
   <p class="calibre1 text-center">

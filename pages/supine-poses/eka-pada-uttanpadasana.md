@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Single leg raise
 title: Eka Pada Uttanpadasana
 ---
   <p class="calibre1 text-center">

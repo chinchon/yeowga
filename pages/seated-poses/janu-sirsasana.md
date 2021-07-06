@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Head to Knee pose
 title: Janu Sirsasana
 ---
   <p class="calibre1 text-center">

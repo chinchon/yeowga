@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Hand to Feet Pose
 title: Pada Hastasana
 ---
   <p class="calibre1 text-center">

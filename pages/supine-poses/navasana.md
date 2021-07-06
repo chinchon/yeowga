@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Boat Pose
 title: Navasana
 ---
   <p class="calibre1 text-center">

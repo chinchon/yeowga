@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Tree Pose
 title: Vrikshasana
 ---
   <p class="calibre1 text-center">

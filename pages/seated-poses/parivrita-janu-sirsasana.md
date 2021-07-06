@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Revolving Head to Knee Pose
 title: Parivrita Janu Sirsasana
 ---
   <p class="calibre1 text-center">

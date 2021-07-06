@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Bow Pose
 title: Dhanurasana
 ---
   <p class="calibre1 text-center">

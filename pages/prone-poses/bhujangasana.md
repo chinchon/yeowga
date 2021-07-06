@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Cobra pose
 title: Bhujangasana
 ---
   <p class="calibre1 text-center">

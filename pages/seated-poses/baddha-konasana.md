@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Bound Angle / Butterfly / Cobbler’s pose
 title: Baddha Konasana
 ---
   <p class="calibre1 text-center">

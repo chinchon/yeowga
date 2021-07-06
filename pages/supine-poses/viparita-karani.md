@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Inverted Pose
 title: Viparita Karani
 ---
   <p class="calibre1 text-center">

@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Lotus Pose
 title: Padmasana
 ---
   <p class="calibre1 text-center">

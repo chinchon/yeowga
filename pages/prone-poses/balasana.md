@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Child’s pose
 title: Balasana
 ---
   <p class="calibre1 text-center">

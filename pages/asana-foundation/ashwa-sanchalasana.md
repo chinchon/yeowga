@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Horse Lunge Pose
 title: Ashwa Sanchalasana
 ---
   <p class="calibre1 text-center">

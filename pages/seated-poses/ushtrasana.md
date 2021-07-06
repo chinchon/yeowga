@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Camel Pose
 title: Ushtrasana
 ---
   <p class="calibre1 text-center">

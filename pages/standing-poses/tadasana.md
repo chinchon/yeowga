@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Mountain Pose
 title: Tadasana
 ---
   <p class="calibre1 text-center">

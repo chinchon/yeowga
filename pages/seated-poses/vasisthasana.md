@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Side Plank
 title: Vasisthasana
 ---
   <p class="calibre1 text-center">

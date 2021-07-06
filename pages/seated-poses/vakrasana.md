@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Twisted Pose
 title: Vakrasana
 ---
   <p class="calibre1 text-center">

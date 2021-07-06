@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: null
+subtitle: Belly twist pose
 title: Jathara Parivartanasana
 ---
   <p class="calibre1 text-center">
