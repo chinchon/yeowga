@@ -4,120 +4,88 @@ sections:
     - name: Surya Namaskar
       description: 12-Step Sun Salutation
     - name: Ardha Chakrasana
+      description: Half Wheel Pose
     - name: Ashwa Sanchalasana
+      description: Horse Lunge Pose
     - name: Ashtanga Namaskar
+      description: null
   - name: SUPINE POSES
     subsections:
     - name: Eka Pada Uttanpadasana
+      description: Single leg raise
     - name: Pawan Muktasana
+      description: Wind releasing pose
     - name: Jathara Parivartanasana
+      description: Belly twist pose
     - name: Navasana
+      description: Boat Pose
     - name: Matsyasana
+      description: Fish pose
     - name: Viparita Karani
+      description: Inverted Pose
     - name: Halasana
+      description: Plough Pose
   - name: PRONE POSES
     subsections:
     - name: Makarasana
+      description: Crocodile pose
     - name: Bhujangasana
+      description: Cobra pose
     - name: Naukasana
+      description: Boat pose
     - name: Adhomukha Shvanasana
+      description: Downward facing dog pose
     - name: Balasana
+      description: Child’s pose
     - name: Dhanurasana
+      description: Bow Pose
     - name: Sasangasana
+      description: Rabbit Pose
   - name: SEATED POSES
     subsections:
     - name: Dandasana
+      description: Staff pose
     - name: Paschimottanasana
+      description: Seated Forward Bend
     - name: Janu Sirsasana
+      description: Head to Knee pose
     - name: Parivrita Janu Sirsasana
+      description: Revolving Head to Knee Pose
     - name: Vakrasana
+      description: Twisted Pose
     - name: Purvottanasana
+      description: Reverse/Upward Plank
     - name: Santolasana or Phalakasana
+      description: Plank Pose
     - name: Baddha Konasana
+      description: Bound Angle / Butterfly / Cobbler’s pose
     - name: Padmasana
+      description: Lotus Pose
     - name: Vasisthasana
+      description: Side Plank
     - name: Ushtrasana
+      description: Camel Pose
   - name: STANDING POSES
     subsections:
     - name: Tadasana
+      description: Mountain Pose
     - name: Tiryaka Tadasana
+      description: Swaying Palm Tree Pose
     - name: Pada Hastasana
+      description: Hand to Feet Pose
     - name: Utkatasana
+      description: Chair/Fierce Pose
     - name: Vrikshasana
+      description: Tree Pose
     - name: Virabhadrasana 1
+      description: Warrior 1
     - name: Virabhadrasana 2
+      description: Warrior 2
     - name: Trikonasana
+      description: Triangle Pose
   - name: ASANA ASHTANGA VINYASA PRIMARY SERIES
-    subsections:
-    - name: Surya Namaskara A
-    - name: Surya Namaskara B
-    - name: Padangusthasana
-    - name: Padahastasana
-    - name: Utthita Trikonasana
-    - name: Parivritta Trikonasana
-    - name: Utthita Parsvakonasana
-    - name: Parivritta Parsvakonasana
-    - name: Prasarita Padottanasana A
-    - name: Prasarita Padottanasana B
-    - name: Prasarita Padottanasana C
-    - name: Prasarita Padottanasana D
-    - name: Parsvottanasana
-    - name: Utthita Hasta Padangusthasana A
-    - name: Utthita Hasta Padangusthasana B
-    - name: Utthita Hasta Padangusthasana C
-    - name: Utthita Hasta Padangusthasana D
-    - name: Ardha Baddha Padmottanasana
-    - name: Utkatasana
-    - name: Virabhadrasana A
-    - name: Virabhadrasana B
-    - name: Dandasana
-    - name: Paschimottanasana A,B,C,D
-    - name: Purvottanasana
-    - name: Ardha Baddha Padma Paschimottanasana
-    - name: Triang Mukha Ekapada Paschimottanasana
-    - name: Janu Sirsasana A,B,C
-    - name: Marichyasana A
-    - name: Marichyasana B
-    - name: Marichyasana C
-    - name: Marichyasana D
-    - name: Navasana
-    - name: Bhujapidasana
-    - name: Kurmasana (A) / Supta Kurmasana (B)
-    - name: Garbha Pindasana
-    - name: Kukkutasana
-    - name: Baddha Konasana A,B
-    - name: Upavistha Konasana / Supta Konasana
-    - name: Supta Padangusthasana A,B
-    - name: Ubhaya Padangusthasana
-    - name: Urdhva Mukha Paschimottanasana
-    - name: Setu Bandhasana
-    - name: Urdhva Dhanurasana
-    - name: Sarvangasana
-    - name: Halasana
-    - name: Urdhva Padmasana
-    - name: Pindasana
-    - name: Matsyasana
-    - name: Uttana Padasana
-    - name: Sirsasana
-    - name: Baddha Padmasana
-    - name: Yoga Mudra
-    - name: Utpluthih
   - name: THEORY
-    subsections:
-    - name: PRE-CONCEIVED IDEAS
-    - name: MISCELLANEOUS THOUGHTS AND IDEAS OF DUTY/DHARMA
-    - name: 1.2 Yoga Citta Vritti Nirodhah
   - name: THE EIGHT LIMBS OF ASHTANGA/RAJA YOGA
-    subsections:
-    - name: 1. YAMA DISAPPEARANCE OF ALL SUPPRESSIONS
-    - name: 2. NIYAMA FREEDOM FROM ALL OBSERVANCES
-    - name: 3. ASANA STEADY AND COMFORTABLE POSE
-    - name: 4. PRANAYAMA EXPANSION OF VITAL ENERGY, PRANA
-    - name: 5. PRATYAHARA WITHDRAWAL OF THE SENSES FROM OBJECT AND SUBJECTS AND MOVING CONSCIOUSNESS INWARDS
-    - name: 6. DHARANA MIND FIT FOR CONCENTRATION
-    - name: 7. DHYANA MEDITATION
-    - name: 8. SAMADHI SUPER-CONSCIOUS STATE
-    - name: SAMYAMA
   - name: THE 3 GUNAS
   - name: CHAKRAS
   - name: THE SKELETAL SYSTEM
