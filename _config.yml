@@ -61,3 +61,7 @@ social-network-links:
  instagram: anything.yoga
 
 post_search: true
+
+navbar-col: "#ffd2da"
+page-col: "#ffffff"
+footer-col: "#ffd2da"
